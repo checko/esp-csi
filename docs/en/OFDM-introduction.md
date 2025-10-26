@@ -1,4 +1,4 @@
-# Introduction to OFDM[[中文]](docs/zh_CN/OFDM-introduction.md)
+# Introduction to OFDM[[中文]](../zh_CN/OFDM-introduction.md) [[繁體中文]](../zh_TW/OFDM-introduction.md)
 
 To understand the principles of CSI, one must first grasp the basics of the physical layer in Wi-Fi transmission. The "O" in OFDM stands for "Orthogonal," so let's start with the definition of orthogonality.
 

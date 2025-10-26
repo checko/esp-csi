@@ -1,4 +1,4 @@
-# ESP-CSI [[English]](./README.md)
+# ESP-CSI [[English]](./README.md) [[繁體中文]](./README_zh_tw.md)
 
 本项目的主要目的是展示 ESP-WIFI-CSI 的使用。本项目提供了 CSI 数据的获取方法、处理算法和应用案例。人体检测算法仍在优化中。基于原始 CSI 数据，用户可利用机器学习、神经网络等算法来得到更精确的结果。
 
@@ -12,7 +12,7 @@
 
 - [信号处理基础](./docs/zh_CN/Signal-Processing-Fundamentals.md)
 - [OFDM介绍](./docs/zh_CN/OFDM-introduction.md)
-- [无线信道基础](./docs/docs/zh_CN/Wireless-Channel-Fundamentals.md)
+- [无线信道基础](./docs/zh_CN/Wireless-Channel-Fundamentals.md)
 - [无线测距与定位技术介绍](./docs/zh_CN/Introduction-to-Wireless-Location.md)
 - [无线通信指标CSI与RSSI](./docs/zh_CN/Wireless-indicators-CSI-and-RSSI.md)
 - [CSI的应用与案例分析](./docs/zh_CN/CSI-Applications.md)

@@ -1,4 +1,4 @@
-# 无线测距的基本方法[[English]](./docs/en/Introduction-to-Wireless-Location.md)
+# 无线测距的基本方法[[English]](../en/Introduction-to-Wireless-Location.md) [[繁體中文]](../zh_TW/Introduction-to-Wireless-Location.md)
 
 **到达时间（TOA）：**
 TOA是通过测量信号从发送端到达接收端所需的时间来计算距离的一种方法。该方法需要精确同步发送端和接收端的时钟，以确保测量的准确性。TOA通常用于需要高精度定位的场景，例如GPS系统。

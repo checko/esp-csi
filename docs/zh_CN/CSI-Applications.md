@@ -1,4 +1,4 @@
-# CSI的应用与案例分析[[English]](./docs/en/CSI-Applications.md)
+# CSI的应用与案例分析[[English]](../en/CSI-Applications.md) [[繁體中文]](../zh_TW/CSI-Applications.md)
 
 本章介绍信道状态信息（CSI）在各种实际场景中的应用，主要内容包括：
 

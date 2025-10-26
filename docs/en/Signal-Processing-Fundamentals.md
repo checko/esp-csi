@@ -1,4 +1,4 @@
-# Components of a Wireless Communication System [[中文]](docs/zh_CN/Wireless-Channel-Fundamentals.md)
+# Components of a Wireless Communication System [[中文]](../zh_CN/Signal-Processing-Fundamentals.md) [[繁體中文]](../zh_TW/Signal-Processing-Fundamentals.md)
 
 **Transmitter and Receiver**: Devices for generating, transmitting, and receiving signals.
 **Channel**: The medium through which signals are transmitted, which can be free space, air, or other media.

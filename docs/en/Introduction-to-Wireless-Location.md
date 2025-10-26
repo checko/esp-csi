@@ -1,4 +1,4 @@
-# Basic Methods of Wireless Location[[中文]](docs/zh_CN/Introduction-to-Wireless-Location.md)
+# Basic Methods of Wireless Location[[中文]](../zh_CN/Introduction-to-Wireless-Location.md) [[繁體中文]](../zh_TW/Introduction-to-Wireless-Location.md)
 
 **Time of Arrival (TOA):**
 TOA is a method for calculating distance by measuring the time a signal takes to travel from the transmitter to the receiver. This method requires precise synchronization of the clocks at both the transmitter and receiver to ensure accurate measurements. TOA is typically used in scenarios requiring high-precision positioning, such as GPS systems.

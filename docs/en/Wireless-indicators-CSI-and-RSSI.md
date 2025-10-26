@@ -1,4 +1,4 @@
-# Wireless Indicators: CSI and RSSI[[中文]](docs/zh_CN/Wireless-indicators-CSI-and-RSSI.md)
+# Wireless Indicators: CSI and RSSI[[中文]](../zh_CN/Wireless-indicators-CSI-and-RSSI.md) [[繁體中文]](../zh_TW/Wireless-indicators-CSI-and-RSSI.md)
 
 In wireless communication, Channel State Information (CSI) and Received Signal Strength Indicator (RSSI) are two important metrics used to evaluate the quality and characteristics of wireless signals.
 

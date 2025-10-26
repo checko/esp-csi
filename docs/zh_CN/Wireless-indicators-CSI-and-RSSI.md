@@ -1,4 +1,4 @@
-# 无线通信指标 CSI 与 RSSI[[English]](./docs/en/Wireless-indicators-CSI-and-RSSI.md)
+# 无线通信指标 CSI 与 RSSI[[English]](../en/Wireless-indicators-CSI-and-RSSI.md) [[繁體中文]](../zh_TW/Wireless-indicators-CSI-and-RSSI.md)
 
 无线通信中的 CSI（Channel State Information，信道状态信息）和 RSSI（Received Signal Strength Indicator，接收信号强度指示）是两个重要的指标，用于评估无线信号的质量和特性。
 

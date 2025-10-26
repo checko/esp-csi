@@ -1,4 +1,4 @@
-# OFDM Introduction[[English]](./docs/en/OFDM-introduction.md)
+# OFDM Introduction[[English]](../en/OFDM-introduction.md) [[繁體中文]](../zh_TW/OFDM-introduction.md)
 
 要理解 CSI 的原理，首先要了解 Wi-Fi 传输的物理层基本知识。OFDM 的"O"代表着"正交"，那么先从正交的定义说起。
 

@@ -1,4 +1,4 @@
-# ESP-CSI [[中文]](./README_cn.md)
+# ESP-CSI [[中文]](./README_cn.md) [[繁體中文]](./README_zh_tw.md)
 
 ## Introduction to CSI
 

@@ -1,4 +1,4 @@
-# 无线通信系统的组成[[English]](./docs/en/Signal-Processing-Fundamentals.md)
+# 无线通信系统的组成[[English]](../en/Signal-Processing-Fundamentals.md) [[繁體中文]](../zh_TW/Signal-Processing-Fundamentals.md)
 
 发射器和接收器：信号的生成、传输和接收设备。
 信道：传输信号的媒介，可以是自由空间、空气、或其他介质。

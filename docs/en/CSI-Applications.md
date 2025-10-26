@@ -1,4 +1,4 @@
-# Application and Case Analysis of CSI[[中文]](docs/zh_CN/CSI-Applications.md)
+# Application and Case Analysis of CSI[[中文]](../zh_CN/CSI-Applications.md) [[繁體中文]](../zh_TW/CSI-Applications.md)
 
 This chapter explores the application of Channel State Information (CSI) in various practical scenarios. The main content includes:
 

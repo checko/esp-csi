@@ -1,4 +1,4 @@
-# Wireless Channel Overview[[中文]](docs/zh_CN/Signal-Processing-Fundamentals.md)
+# Wireless Channel Overview[[中文]](../zh_CN/Wireless-Channel-Fundamentals.md) [[繁體中文]](../zh_TW/Wireless-Channel-Fundamentals.md)
 
 Wireless communication systems transmit data through wireless channels, where signals are influenced by various factors including attenuation, multipath effects, and interference. Understanding the characteristics of wireless channels is crucial for designing and optimizing wireless communication systems.
 
