@@ -1,5 +1,5 @@
 # 示例程序
-[[English]](./README.md)  
+[[English]](./README.md) [[繁體中文]](./README_zh_tw.md)  
 本目录包含多个 esp-csi 示例项目。这些示例旨在演示  esp-csi 的部分功能，并提供可以复制和修改以用于自己项目的代码。
 
 - `get-started/csi_recv`：基本的 CSI 数据接收示例，展示如何通过 Wi-Fi 接收端获取 CSI 信息。

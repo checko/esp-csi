@@ -1,4 +1,4 @@
-# esp-radar Component
+# esp-radar Component [[繁體中文]](./README_zh_tw.md)
 
 [![Component Registry](https://components.espressif.com/components/espressif/esp-radar/badge.svg)](https://components.espressif.com/components/espressif/esp-radar)
 

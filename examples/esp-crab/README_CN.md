@@ -1,6 +1,7 @@
 # 共晶振CSI接收示例
 
 * [English Version](./README.md)
+* [繁體中文版](./README_zh_tw.md)
 
 此示例提供了一种 Wifi-CSI 的射频相位同步解决方案，包含三个子项目：MASTER_RECV（主接收端）、SLAVE_RECV（从接收端）、SLAVE_SEND（从发送端）。
 该方案包含两种工作模式：1、自发自收模式；2、单发双收模式

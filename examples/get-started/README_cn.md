@@ -1,5 +1,5 @@
 # Get Started Examples
-[[English]](./README.md)
+[[English]](./README.md) [[繁體中文]](./README_zh_tw.md)
 
 本示例演示了如何通过两个 ESP32 芯片之间的通信获取 CSI 数据，并使用图形界面显示 CSI 子载波的实时数据。
 

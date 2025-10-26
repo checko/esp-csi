@@ -1,5 +1,5 @@
 # Example Projects
-[[中文]](./README_cn.md)  
+[[中文]](./README_cn.md) [[繁體中文]](./README_zh_tw.md)  
 This directory contains multiple example projects for esp-csi. These examples are intended to demonstrate various features of esp-csi and provide code that can be copied and adapted for your own projects.
 
 - `get-started/csi_recv`: A basic CSI data reception example showing how to obtain CSI information via a Wi-Fi receiver.

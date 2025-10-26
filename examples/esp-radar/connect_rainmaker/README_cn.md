@@ -1,4 +1,4 @@
-# ESP RainMaker 中添加 Wi-Fi CSI 功能 [[English]](./README.md)
+# ESP RainMaker 中添加 Wi-Fi CSI 功能 [[English]](./README.md) [[繁體中文]](./README_zh_tw.md)
 
 ## 编译下载
 按照 ESP RainMaker 文档 [入门](https://rainmaker.espressif.com/docs/get-started.html) 部分构建和烧录固件

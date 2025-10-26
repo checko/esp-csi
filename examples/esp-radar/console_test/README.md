@@ -1,4 +1,4 @@
-# esp-csi console_test [[中文]](./README_cn.md)
+# esp-csi console_test [[中文]](./README_cn.md) [[繁體中文]](./README_zh_tw.md)
 ----------
 ## 1 Introduction
 This example provides a test platform for Wi-Fi CSI, which includes functions such as data display, data acquisition and data analysis, which can help you quickly understand Wi-Fi CSI.

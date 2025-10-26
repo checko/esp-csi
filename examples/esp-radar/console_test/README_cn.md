@@ -1,4 +1,4 @@
-# esp-csi console_test [[English]](./README.md)
+# esp-csi console_test [[English]](./README.md) [[繁體中文]](./README_zh_tw.md)
 ----------
 ## 1 简介
 console_test 是一款 Wi-Fi CSI 的测试平台，它包含了对 Wi-Fi CSI 的数据采集、数据显示、数据分析等功能，帮助我们更好的了解和应用 Wi-Fi CSI

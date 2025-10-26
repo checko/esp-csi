@@ -1,4 +1,4 @@
-# Recv router CSI example
+# Recv router CSI example [[繁體中文]](./README_zh_tw.md)
 
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 

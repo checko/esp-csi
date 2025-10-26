@@ -1,6 +1,7 @@
 # Co-Crystal Oscillator CSI Reception Example
 
 * [中文版](./README_CN.md)
+* [繁體中文版](./README_zh_tw.md)
 
 This example provides a radio frequency phase synchronization solution for Wi-Fi CSI, including three sub-projects: `MASTER_RECV` (master receiver), `SLAVE_RECV` (slave receiver), and `SLAVE_SEND` (slave sender).  
 The solution includes two working modes:  

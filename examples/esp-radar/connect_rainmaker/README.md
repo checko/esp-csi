@@ -1,4 +1,4 @@
-# Adding Wi-Fi CSI Functionality in ESP RainMaker [[中文]](./README_cn.md)
+# Adding Wi-Fi CSI Functionality in ESP RainMaker [[中文]](./README_cn.md) [[繁體中文]](./README_zh_tw.md)
 
 ## Build and Flashing Instructions
 Follow the ESP RainMaker documentation [Getting Started](https://rainmaker.espressif.com/docs/get-started.html) section to build and flash the firmware.
