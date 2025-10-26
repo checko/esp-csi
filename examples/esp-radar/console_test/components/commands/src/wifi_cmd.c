@@ -130,7 +130,7 @@ static int wifi_cmd_sta(int argc, char **argv)
     s_reconnect = true;
 
     ESP_ERROR_CHECK(esp_wifi_set_mode(WIFI_MODE_STA));
-    ESP_ERROR_CHECK(esp_wifi_set_config(ESP_IF_WIFI_STA, &wifi_config));
+    ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_STA, &wifi_config));
     esp_wifi_connect();
 
     xEventGroupWaitBits(s_wifi_event_group, WIFI_CONNECTED_BIT, false, true, pdMS_TO_TICKS(5000));
@@ -184,7 +184,7 @@ static int wifi_cmd_ap(int argc, char **argv)
     }
 
     ESP_ERROR_CHECK(esp_wifi_set_mode(WIFI_MODE_AP));
-    ESP_ERROR_CHECK(esp_wifi_set_config(ESP_IF_WIFI_AP, &wifi_config));
+    ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_AP, &wifi_config));
 
     ESP_LOGI(TAG, "Starting SoftAP SSID: %s, Password: %s", ssid, password);
 
@@ -418,16 +418,16 @@ static int wifi_config_func(int argc, char **argv)
     }
 
     if (wifi_config_args.bandwidth->count) {
-        ESP_ERROR_CHECK(esp_wifi_set_bandwidth(ESP_IF_WIFI_STA, wifi_config_args.bandwidth->ival[0]));
+        ESP_ERROR_CHECK(esp_wifi_set_bandwidth(WIFI_IF_STA, wifi_config_args.bandwidth->ival[0]));
     }
 
     if (wifi_config_args.rate->count) {
         extern esp_err_t esp_wifi_internal_set_fix_rate(wifi_interface_t ifx, bool en, wifi_phy_rate_t rate);
-        ESP_ERROR_CHECK(esp_wifi_internal_set_fix_rate(ESP_IF_WIFI_STA, true, wifi_config_args.rate->ival[0]));
+        ESP_ERROR_CHECK(esp_wifi_internal_set_fix_rate(WIFI_IF_STA, true, wifi_config_args.rate->ival[0]));
     }
 
     if (wifi_config_args.protocol->count) {
-        ESP_ERROR_CHECK(esp_wifi_set_protocol(ESP_IF_WIFI_STA, wifi_config_args.protocol->ival[0]));
+        ESP_ERROR_CHECK(esp_wifi_set_protocol(WIFI_IF_STA, wifi_config_args.protocol->ival[0]));
     }
 
 
